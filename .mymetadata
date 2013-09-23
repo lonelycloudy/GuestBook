@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GuestBook"
+  id="myeclipse.1369619068578"
+  context-root="/GuestBook"
+  j2ee-spec="6.0"
+  archive="GuestBook.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
